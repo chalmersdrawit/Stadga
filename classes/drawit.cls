@@ -93,7 +93,7 @@
 
         \vspace{2cm}
         \centerline{ \includegraphics[width=0.5\textwidth]{images/drawit.png}}
-        \vspace{1cm}
+        \vspace{2cm}
         
         \Large
         
