@@ -1,0 +1,85 @@
+\documentclass[11pt, includeaddress]{classes/cthit}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{verbatimbox}
+
+\titleformat{\paragraph}[hang]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}{0pt}{2.25ex plus 1ex minus 0.2ex}{0.5em}
+\titlespacing*{\section}{0pt}{2.25ex plus 1ex minus 0.2ex}{0.5em}
+\titlespacing*{\subsection}{0pt}{2.25ex plus 1ex minus 0.2ex}{0.5em}
+\titlespacing*{\subsubsection}{0pt}{2.25ex plus 1ex minus 0.2ex}{0.5em}
+
+
+%\titleformat{\section}{\normalfont\Large\bfseries}{\S\thesection}{1em}{}
+
+%\contentslabel[\S \thecontentslabel]{2em}
+\titlelabel{\S \thetitle\quad}
+%\renewcommand{\thesection}{\S \arabic{section}}
+
+\graphicspath{ {images/} }
+
+\begin{document}
+
+\title{Stadga}
+\approved{2003--01--27}
+%\revisioned{2015--05--21}
+%\revisioned{2016--02--25}
+%\revisioned{2016--10--08}
+%\revisioned{2018--02--22}
+%\revisioned{2018--11--11}
+\revisioned{2019--05--01}
+\maketitle
+
+\thispagestyle{empty}
+
+\newpage
+
+\makeheadfoot%
+
+%Rubriksnivådjup
+\setcounter{tocdepth}{2}
+%Sidnumreringsstart
+\setcounter{page}{1}
+\tableofcontents
+
+\newpage
+\input{reglemente/forord.tex} % Förord
+\newpage
+\input{stadga/allmant.tex} % Allmänt
+\newpage
+\input{stadga/medlemmar.tex} % Medlemmar
+\newpage
+\input{stadga/organisation.tex} % Organisation
+\newpage
+\input{stadga/sektionsmote.tex} % Sektionsmötet
+\newpage
+\input{stadga/valberedning.tex} % Valberedning
+\newpage
+\input{stadga/sektionsstyrelse.tex} % Sektionsstyrelsen styrIT
+\newpage
+\input{stadga/studienamnd.tex} % Studienämnden, snIT
+\newpage
+\input{stadga/sektionskomitteer.tex} % Sektionskomittéer
+\newpage
+\input{stadga/funktionarer.tex} % Sektionsfunktionärer
+\newpage
+\input{stadga/intresseforeningar.tex} % Intresseföreningar
+\newpage
+\input{stadga/hedersmedlemmar.tex} % Hedersmedlemmar
+\newpage
+\input{stadga/skyddshelgon.tex} % Skyddshelgon och sektionsfärg
+\newpage
+\input{stadga/protokoll.tex} % Protokoll och anslagning
+\newpage
+\input{stadga/revision.tex} % Revision och ansvarsfrihet
+\newpage
+\input{stadga/avgifter.tex} % Avgifter
+\newpage
+\input{stadga/upplosning.tex} % Upplösning av sektionen
+\newpage
+\input{stadga/inspektor.tex} % Inspektor
+\newpage
+\input{stadga/andring.tex} % Ändring- och tolkningsfrågor
+
+\end{document}
+
