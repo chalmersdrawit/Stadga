@@ -4,7 +4,7 @@
 % https://github.com/dtekcth/dtek-tex/blob/master/dtek.cls
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{cthit}[2014/07/14 Teknologsektionen Informationsteknik Chalmers]
+\ProvidesClass{drawit}[2020/05/18 Intresseföreningen DrawIT]
 
 \newif\ifincludeaddress
 \includeaddresstrue
