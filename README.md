@@ -5,7 +5,11 @@ Stadga tillhörande Intresseföreningen DrawIT på Teknologsektionen Information
 
 > **Note:**
 > Relative paths used within documents must originate from the document root. I.e. where the *Makefile* is located
-## Uppdatera Stadga
+
+## Uppdatera stadgan på Ebas
+Vi har också en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
+
+## Uppdatera Stadga på Git
 
 ### Förändra stadgan
 För att göra stadgaändringar finns det två bra alternativ: Overleaf och lokalt.
@@ -31,6 +35,3 @@ Enligt IT-sektionens stadga ska alla intresseföreningars stadgor vara godkända
 
 #### Drive - Den publika mappen
 När stadgan har blivit godkänd av StyrIT kan ni byta ut den PDF av stadgan som ligger på driven.
-
-## Uppdatera stadgan på Ebas
-Vi har också en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
