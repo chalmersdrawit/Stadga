@@ -32,5 +32,5 @@ Enligt IT-sektionens stadga ska alla intresseföreningars stadgor vara godkända
 #### Drive - Den publika mappen
 När stadgan har blivit godkänd av StyrIT kan ni byta ut den PDF av stadgan som ligger på driven.
 
-### Uppdatera stadgan på Ebas
+## Uppdatera stadgan på Ebas
 Vi har också en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
