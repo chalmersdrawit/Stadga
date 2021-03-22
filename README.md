@@ -9,7 +9,7 @@ Stadga tillhörande Intresseföreningen DrawIT på Teknologsektionen Information
 ## Uppdatera stadgan på Ebas
 Vi en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
 
-## Uppdatera Stadga på Git
+## Uppdatera Stadga på sektionen
 
 ### Förändra stadgan
 För att göra stadgaändringar finns det två bra alternativ: Overleaf och lokalt.
