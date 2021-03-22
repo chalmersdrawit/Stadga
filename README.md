@@ -7,7 +7,7 @@ Stadga tillhörande Intresseföreningen DrawIT på Teknologsektionen Information
 > Relative paths used within documents must originate from the document root. I.e. where the *Makefile* is located
 
 ## Uppdatera stadgan på Ebas
-Vi har också en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
+Vi en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/edit_stadgar). Ni redigerar texten direkt utefter vad för förändringar som har röstats igenom på årsmötet.
 
 ## Uppdatera Stadga på Git
 
