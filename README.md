@@ -14,17 +14,17 @@ Vi en fritext version av stadgan på Ebas(https://ebas.sverok.se/associations/ed
 För att göra stadgaändringar finns det två bra alternativ: Overleaf och lokalt.
 
 #### Overleaf
-  Importera projektet till github / Uppdatera ett redan importerat
-  Gör förändringarna
-  Uppdatera revideringsdatum m.m.
-  Pusha sedan till stadgan på Github genom Overleaf
+* Importera projektet till github / Uppdatera ett redan importerat
+* Gör förändringarna
+* Uppdatera revideringsdatum m.m.
+* Pusha sedan till stadgan på Github genom Overleaf
 
 #### Lokalt
-  Klona ner repot / Git pull i redan existerande repo
-  Gör förändringar
-  Uppdatera revideringsdatum m.m.
-  Kör det lokalt genom att skriva `make`, se till att du har latex installerat lokalt.
-  Pusha till repot
+* Klona ner repot / Git pull i redan existerande repo
+* Gör förändringar
+* Uppdatera revideringsdatum m.m.
+* Kör det lokalt genom att skriva `make`, se till att du har latex installerat lokalt.
+* Pusha till repot
 
 ### Publicera den uppdaterade stadgan
 Efter att stadgan har uppdaterats ska den publiceras på de olika ställen där det går att finna den.
